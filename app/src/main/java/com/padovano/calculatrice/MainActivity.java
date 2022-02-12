@@ -94,7 +94,6 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
         field.append(btn.getText());
-
         isresult=false;
     }
     private void equal(){
